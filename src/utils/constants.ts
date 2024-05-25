@@ -1,0 +1,1 @@
+export const baseUrl = "http://api.escuelajs.co/api/v1"
